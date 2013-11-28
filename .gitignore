@@ -1,0 +1,6 @@
+Release/
+obj/
+Debug/
+Temp/
+*.pdb
+*.dll
